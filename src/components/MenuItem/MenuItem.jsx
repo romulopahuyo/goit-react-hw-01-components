@@ -14,7 +14,12 @@ const MenuItem = () => {
                 Served with Nikki\u2019s Greek dressing.
             </p>
             <span>$5</span>
-            <br>Special with Egg</br>
+
+             <h3> Romaine blend, feta cheese, red onions, beets, mild peppers, black olives, grape tomatoes.
+                Served with Nikki\u2019s Greek dressing.
+            </h3>
+            <br />
+            
             
         </div>
     );
